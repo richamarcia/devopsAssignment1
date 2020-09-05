@@ -8,7 +8,7 @@
 
 ### docker-compose.yml
 ```commandline
-    version: '2'
+version: '2'
 
 services:
 
@@ -35,5 +35,7 @@ volumes:
   web-profiles:
   web-themes:
   web-sites:
+
+### Running compose file
 
 
