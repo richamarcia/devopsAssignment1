@@ -35,7 +35,15 @@ volumes:
   web-profiles:
   web-themes:
   web-sites:
-
+```
 ### Running compose file
+![image3](images/image3.png)
+
+### List the container
+![image4](images/image4.png)
+
+### drup config on port 8080
+
+![image5](images/image5.png)
 
 
