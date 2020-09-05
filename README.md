@@ -42,7 +42,7 @@ volumes:
 ### List the container
 ![image4](images/image4.png)
 
-### drup config on port 8080
+### drupal config on port 8080
 
 ![image5](images/image5.png)
 
