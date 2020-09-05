@@ -6,7 +6,7 @@
 ### creating compose file
 ![image2](images/image2.png)
 
-Markup :  `code()`
+### docker-compose.yml
 ```commandline
     version: '2'
 
@@ -36,4 +36,4 @@ volumes:
   web-themes:
   web-sites:
 
-```commandline
+
