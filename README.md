@@ -2,4 +2,4 @@
 
 ## creating directory
 
-![image1](/devopsAssignment/images/image 1.png)
+![image1](images/image 1.png)
